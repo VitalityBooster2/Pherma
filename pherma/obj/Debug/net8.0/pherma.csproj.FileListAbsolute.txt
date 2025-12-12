@@ -1,0 +1,15 @@
+C:\Users\vital\Pherma\pherma\bin\Debug\net8.0\pherma.exe
+C:\Users\vital\Pherma\pherma\bin\Debug\net8.0\pherma.deps.json
+C:\Users\vital\Pherma\pherma\bin\Debug\net8.0\pherma.runtimeconfig.json
+C:\Users\vital\Pherma\pherma\bin\Debug\net8.0\pherma.dll
+C:\Users\vital\Pherma\pherma\bin\Debug\net8.0\pherma.pdb
+C:\Users\vital\Pherma\pherma\obj\Debug\net8.0\pherma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vital\Pherma\pherma\obj\Debug\net8.0\pherma.AssemblyInfoInputs.cache
+C:\Users\vital\Pherma\pherma\obj\Debug\net8.0\pherma.AssemblyInfo.cs
+C:\Users\vital\Pherma\pherma\obj\Debug\net8.0\pherma.csproj.CoreCompileInputs.cache
+C:\Users\vital\Pherma\pherma\obj\Debug\net8.0\pherma.sourcelink.json
+C:\Users\vital\Pherma\pherma\obj\Debug\net8.0\pherma.dll
+C:\Users\vital\Pherma\pherma\obj\Debug\net8.0\refint\pherma.dll
+C:\Users\vital\Pherma\pherma\obj\Debug\net8.0\pherma.pdb
+C:\Users\vital\Pherma\pherma\obj\Debug\net8.0\pherma.genruntimeconfig.cache
+C:\Users\vital\Pherma\pherma\obj\Debug\net8.0\ref\pherma.dll

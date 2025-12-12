@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pherma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fdce986e5b2428ea3b7c5127211e6804932f702")]
 [assembly: System.Reflection.AssemblyProductAttribute("pherma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pherma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
