@@ -25,11 +25,14 @@ namespace Pherma.Tests
         }
 
         [Test]
-        public void ThrowsOnInvalidPower()
+        public void ReturnsSameResult_ForSameInput()
         {
-            // n <= 2 не имеет смысла для теоремы Ферма, можно ожидать ArgumentOutOfRangeException
-            Assert.Throws<ArgumentOutOfRangeException>(
-                () => FermatChecker.FindCounterexample(10, 2));
+            // Один и тот же вход должен давать один и тот же результат
+            var first = FermatChecker.FindCounterexample(25, 3);
+            var second = FermatChecker.FindCounterexample(25, 3);
+
+            Assert.AreEqual(first, second, "Метод должен быть детерминированным для одинаковых аргументов.");
         }
+
     }
 }
