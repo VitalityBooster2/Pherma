@@ -25,5 +25,5 @@ if (result is null)
 }
 
 var (a, b, c) = result.Value;
-Console.WriteLine($"Found equality in range: {a}^{n} + {b}^{n} = {c}^{n}")
+Console.WriteLine($"Found equality in range: {a}^{n} + {b}^{n} = {c}^{n}");
 return 1; // пусть CI сможет пометить как “неожиданно нашли”
